@@ -86,7 +86,7 @@ This project is licensed under the BSD-3-Clause License. See the [LICENSE](https
 If you found Term Vim useful, give it a ⭐️ on [GitHub](https://github.com/prince4you/Term-vim)!
 Stay connected with me on my social media:
 
-- YouTube: [Noob Cyber Tech](https://www.youtube.com/channel/NoobCyberTech)
+- YouTube: [Noob Cyber Tech](https://youtube.com/@noobcybertech2024?si=FR-uzfQ1KJesHWuR)
 - Instagram: [@annon_4you](https://www.instagram.com/annon_4you)
 - Facebook: [sunil](https://www.facebook.com)
 
