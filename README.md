@@ -1,8 +1,4 @@
-To create a professional and comprehensive `README.md` for the `Term-vim` repository, we'll need to include several key sections such as an introduction, features, installation instructions, usage, advanced configuration, demos, contributing guidelines, support, license, and acknowledgments. 
 
-Here is an improved version of your `README.md`:
-
-```markdown
 ![Term Vim Setup](https://github.com/prince4you/Term-vim/blob/main/Picsart_25-03-16_14-14-21-034.jpg)
 
 ---
@@ -112,7 +108,7 @@ The scripts related to this project are located in `$PREFIX/share/term-vim`:
 Be a part of the growing Termux & Neovim community:
 
 - Telegram Channel: [Noob Cyber Tech](https://t.me/NoobCyberTech)
-- WhatsApp Group: [Join Now](https://chat.whatsapp.com/invite/123456789)
+- WhatsApp Group: [Join Now]()
 
 ---
 
@@ -127,5 +123,3 @@ If you have any questions, feel free to open an [issue](https://github.com/princ
 ---
 
 ```
-
-You can now update your `README.md` file with these enhancements to make it more professional and comprehensive.
