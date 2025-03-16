@@ -1,4 +1,3 @@
-
 ![Term Vim Setup](https://github.com/prince4you/Term-vim/blob/main/Picsart_25-03-16_14-14-21-034.jpg)
 
 ---
@@ -75,8 +74,8 @@ For more information, visit my [GitHub Profile](https://github.com/prince4you).
 If you have any questions or issues, don’t hesitate to reach out via:
 
 - [GitHub Issues](https://github.com/prince4you/Term-vim/issues)
-- Telegram Channel: [Noob Cyber Tech](https://t.me/NoobCyberTech)
-- WhatsApp Group: [Join Now](https://chat.whatsapp.com/invite/123456789)
+- WhatsApp Group: [Join Now](https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T
+)
 
 ## 📜 License
 
@@ -89,7 +88,7 @@ Stay connected with me on my social media:
 
 - YouTube: [Noob Cyber Tech](https://www.youtube.com/channel/NoobCyberTech)
 - Instagram: [@annon_4you](https://www.instagram.com/annon_4you)
-- Facebook: [Noob Cyber Tech](https://www.facebook.com/NoobCyberTech)
+- Facebook: [sunil](https://www.facebook.com)
 
 ## 🔥 Get Involved
 
@@ -107,7 +106,7 @@ The scripts related to this project are located in `$PREFIX/share/term-vim`:
 
 Be a part of the growing Termux & Neovim community:
 
-- Telegram Channel: [Noob Cyber Tech](https://t.me/NoobCyberTech)
+- Telegram Channel: [Joine now](https://t.me/Annon4you)
 - WhatsApp Group: [Join Now]()
 
 ---
