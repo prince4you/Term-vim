@@ -94,20 +94,12 @@ Stay connected with me on my social media:
 
 If you want to contribute to this project, check out the [CONTRIBUTING.md](https://github.com/prince4you/Term-vim/blob/main/CONTRIBUTING.md) for more details.
 
-## 📂 Scripts & Files
-
-The scripts related to this project are located in `$PREFIX/share/term-vim`:
-
-- Installation Scripts: [term-vim.sh](https://github.com/prince4you/Term-vim/blob/main/term-vim.sh)
-- Font Installation: [install-fonts.sh](https://github.com/prince4you/Term-vim/blob/main/install-fonts.sh)
-- NV Chat Setup: [nv-chat.sh](https://github.com/prince4you/Term-vim/blob/main/nv-chat.sh)
-
 ## 🎯 Join the Community
 
 Be a part of the growing Termux & Neovim community:
 
 - Telegram Channel: [Joine now](https://t.me/Annon4you)
-- WhatsApp Group: [Join Now]()
+- WhatsApp Group: [Join Now](https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T )
 
 ---
 
