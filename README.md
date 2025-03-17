@@ -79,7 +79,7 @@ If you have any questions or issues, don’t hesitate to reach out via:
 
 ## 📜 License
 
-This project is licensed under the BSD-3-Clause License. See the [LICENSE](https://github.com/prince4you/Term-vim/blob/main/LICENSE) file for more details.
+This project is licensed under theMmit License. See the [LICENSE](https://github.com/prince4you/Term-vim/blob/main/LICENSE) file for more details.
 
 ## 💖 Follow & Support
 
